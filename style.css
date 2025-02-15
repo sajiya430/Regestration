@@ -1,0 +1,22 @@
+body{
+    background-color: darkgray;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+button{
+    background-color:palevioletred ;
+    border-radius: 5px;
+   
+}
